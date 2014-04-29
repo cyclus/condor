@@ -12,6 +12,6 @@ Note that you will need to download `cyclopts-build.tar.gz
 and place it in the directory from which you launch jobs.
 
 Once logged into condor with these files in the home directory of your
-submit node userspace, running a job is as easy as `condor_submit
-run_tests.sub`. Out, err, and log files are generated based on some of
+submit node userspace, running a job is as easy as ``condor_submit
+run_tests.sub``. Out, err, and log files are generated based on some of
 the job information. 
