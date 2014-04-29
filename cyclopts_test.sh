@@ -3,7 +3,7 @@
 # Download and build cyclus and run unit tests.
 #
 
-tar -xf build.tar.gz
+tar -xf cyclopts-build.tar.gz
 
 tar -xf cyclus-install.tar.gz  
 tar -xf cyclus-deps.tar.gz 
